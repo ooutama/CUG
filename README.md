@@ -7,7 +7,7 @@
 
 ## Tools used to build this project
 * **C++**
-* **[Qt Framework](https://www.qt.io/)**
+* **[Qt Framework](https://www.qt.io)**
 
 ## Installation
 1. You just have to clone this repository by downloading it or by running the following command line :
