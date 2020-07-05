@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arc.png</file>
+        <file>icons/arete.png</file>
+        <file>icons/cuglogo.png</file>
+        <file>icons/dsatur.png</file>
+        <file>icons/enregistrer.png</file>
+        <file>icons/enregistrercomme.png</file>
+        <file>icons/fermer.png</file>
+        <file>icons/gloutoun.png</file>
+        <file>icons/onglet.png</file>
+        <file>icons/selectionner.png</file>
+        <file>icons/sommet.png</file>
+        <file>icons/sudoku.png</file>
+        <file>icons/supprimer.png</file>
+        <file>icons/welshpowel.png</file>
+        <file>icons/ouvrir.png</file>
+        <file>icons/cuglogo1.png</file>
+        <file>icons/ponderer.png</file>
+        <file>icons/renommer.png</file>
+        <file>icons/generateur.png</file>
+        <file>icons/sudocolo.png</file>
+        <file>icons/grid.jpg</file>
+        <file>icons/checker.png</file>
+        <file>icons/invis.png</file>
+        <file>icons/reset.png</file>
+        <file>icons/visi.png</file>
+        <file>icons/demo.png</file>
+    </qresource>
+</RCC>
