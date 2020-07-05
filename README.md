@@ -25,9 +25,9 @@
 * Link the vertices
 * Open and save graphs as **_.xml_** file
 * Colorate the graphes using :
-    -  GLOUTON Algorithm
-    -  WELSH & POWELL Algorithm
-    -  DSATUR Algorithm
+    -  **_GLOUTON_** Algorithm
+    -  **_WELSH & POWELL_** Algorithm
+    -  **_DSATUR_** Algorithm
 * Play SUDOKU and verify your answer 😁
 
 **P.S: we are using BACKTRACKING to colorate SUDOKU graph. Because, all the regular algorithms don't give the wanted used number of colors.**
