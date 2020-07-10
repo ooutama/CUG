@@ -1,6 +1,6 @@
 # CUG
 
-> A simple graphique interface to manage, colorate and save your graphs. Moreover, it comes with a SUDOKU game which it built using graphs.
+> A simple graphique interface to manage, colorate and save your graphs. Moreover, it comes with a SUDOKU game which is built using graphs.
 
 ## Screenshoot
 ![CUG Screenshoot](https://i.imgur.com/s5nfhFs.png)
